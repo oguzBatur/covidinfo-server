@@ -69,7 +69,4 @@ export function GetAllCountriesAtOnce(){
         })
     });
     return object
-
 }
-
-
